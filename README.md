@@ -1,4 +1,6 @@
-### Here is what I'm Working On!
+### Hi There
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybze)](https://github.com/anuraghazra/github-readme-stats)Here is what I'm Working On!
 
 Here are some ideas to get you started:
 
