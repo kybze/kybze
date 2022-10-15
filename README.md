@@ -1,15 +1,8 @@
-### Hi There
+### Hi there 👋, Enock Kibet
+#### Data Scientist
+Budding data scientist, entrepreneur, farmer, storyteller, Afro-optimist, and lifelong learner
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kybze)](https://github.com/anuraghazra/github-readme-stats)Here is what I'm Working On!
+Skills: PYTHON / R / SQL / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...Kaggle
-- 🌱 I’m currently learning ...Machine Learning with Python
-- 👯 I’m looking to collaborate on ... Data Science Projects
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://kibenock)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Techie with an e
--->
