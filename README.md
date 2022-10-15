@@ -1,5 +1,7 @@
 ### Hi there 👋, Enock Kibet
 #### Data Scientist
+![Budding Data Scientist](https://github.com/kybze/kybze/blob/main/IMG_20220623_190037_404.jpg)
+
 Budding data scientist, entrepreneur, farmer, storyteller, Afro-optimist, and lifelong learner
 
 Skills: PYTHON / R / SQL / HTML / CSS
