@@ -1,5 +1,5 @@
 # Enock Kibet
-Budding data scientist, entrepreneur, farmer, storyteller, Afro-optimist, and lifelong learner
+Budding data scientist, entrepreneur, farmer, storyteller, and lifelong learner
 
 ## Skills and Experience
 
