@@ -1,5 +1,3 @@
-![Budding Data Scientist](https://github.com/kybze/kybze/blob/main/IMG_20220623_190037_404.jpg)
-
 # Enock Kibet
 Budding data scientist, entrepreneur, farmer, storyteller, Afro-optimist, and lifelong learner
 
