@@ -5,12 +5,12 @@ Budding data scientist, entrepreneur, farmer, storyteller, and lifelong learner
 
 Skills: PYTHON / R / SQL / HTML / CSS
 
-- 🔭 I’m currently working on a Comprehensive Data Science Project
+- 🔭 I’m currently building a data science project
 - 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on Data Science Projects 
 - 🤔 I’m looking for help with AWS 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: [Twitter @kibenock]
+- 📫 How to reach me: [Twitter @95flows]
 (https://twitter.com/kibenock)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: From The Bright Continent 
