@@ -11,7 +11,7 @@ Skills: PYTHON / R / SQL / HTML / CSS
 - 🤔 I’m looking for help with AWS 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [Twitter @95flows]
-(https://twitter.com/kibenock)
+(https://twitter.com/95flows)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: From The Bright Continent 
 
